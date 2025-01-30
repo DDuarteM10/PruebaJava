@@ -1,0 +1,4 @@
+Nombre;Apellido;Tipo Documento;Número Documento;Id Negocio Fiduciario;Negocio Nombre;Descripción Negocio;Fecha Inicio;Fecha Fin;Id Obligación;Descripción Obligación;Monto;Fecha Vencimiento
+Daniel;Gutierrez;TI;55555;1;A;Negocio 1;2025-01-28;2025-01-30;1;Obligacion 1;1000.0;2026-01-01
+Daniel;Gutierrez;TI;55555;1;A;Negocio 1;2025-01-28;2025-01-30;2;Obligacion 2;1500.0;2026-02-01
+Daniel;Gutierrez;TI;55555;12;Negocio 1;Datos Genericos;2025-07-28;2025-08-30;7;Obli 77;6587.12;2025-10-28
